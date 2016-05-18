@@ -16,20 +16,8 @@ As a believer in life-long learning, I'm looking for a working environment that 
 
 - Editorial appreciation for detail, coherence and simplicity.
 
-- Communication (giving/encouraging feedback, writing, passionate belief that if the purpose of a piece of code isn't immediately clear, then it needs to be refactored or rewritten.
-
---------------------
-
-- Proficient in the production of well-tested, expandable and understandable code.
-- Have worked both collaboratively and independently to successfully implement a number of functioning applications, in a variety of contemporary languages and frameworks
-- Equipped with the confidence and systematic process to rapidly learn and immerse myself in new technologies.
-- A keen advocate of test-driven development. No tests = no code.
-- Experienced in database creation, management and maintenance
-- Front end stuff (HTML, CSS) ?
-
-#### Additional:
-
-- Several years experience as a copywriter: writing both long and short form copy in a range of editorial styles for a diversity of clients and campaigns. (specifics?)
+- Communication (giving/encouraging feedback, writing,
+  passionately believe that if the purpose of a piece of code isn't immediately clear, then it needs to be refactored or rewritten.
 
 
 ## Projects
@@ -42,6 +30,8 @@ As a believer in life-long learning, I'm looking for a working environment that 
 
 
 ## Experience
+
+Several years experience as a copywriter: writing both long and short form copy in a range of editorial styles for a diversity of clients and campaigns. (need specifics?)
 
 - Web editor (part-time) for Gamestyle, Feb 2015 - Nov 2015
 
@@ -58,11 +48,18 @@ As a believer in life-long learning, I'm looking for a working environment that 
 
 ## Education
 
-- Makers Academy, Feb 2016 - May 2016
+#### Makers Academy, Feb 2016 - May 2016
 
-- HDip. in Music Performance - ACM, Guildford (Sep 2008 - Sep 2010).
+- Learnt to produce well-tested, expandable and understandable code.
+- Worked both collaboratively and independently to successfully implement a number of functioning applications in a variety of languages and frameworks
+- Equipped with the confidence and systematic process required to rapidly learn and immerse myself in new technologies.
+- Keen advocate of test-driven development. No tests = no code.
+- Gained experience in database creation and management.
+- Front end stuff (HTML, CSS)
+
+#### HDip. in Music Performance - ACM, Guildford (Sep 2008 - Sep 2010).
 
 
 ## Hobbies
 
-Reading, writing, gaming, fooding, music. Occasional dr*nking.
+Reading, writing, gaming, fooding, music. Occasional drinking.
