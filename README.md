@@ -41,19 +41,10 @@ I believe that the difference between passable and great code is the ability to 
 
    <!-- e.g. (size recognition in Playfest, Baby Got Slack) -->
 
+  <!-- - Repeatedly called on, throughout my adult life and including at Makers, to proof, edit and otherwise improve my friends' and colleagues' written work. -->
 
-- Editorial appreciation for detail, coherence and simplicity.
-
-  - Repeatedly called on, throughout my adult life and including at Makers, to proof, edit and otherwise improve my friends' and colleagues' written work.
-
-    - link to refactoring?
-
-
-- Communication (giving/encouraging feedback, writing,
-  passionately believe that if the purpose of a piece of code isn't immediately clear, then it needs to be refactored or rewritten.
-
-    - Storytelling in code?
-
+<!-- - Communication (giving/encouraging feedback, writing,
+  passionately believe that if the purpose of a piece of code isn't immediately clear, then it needs to be refactored or rewritten. -->
 
 ## Projects
 
