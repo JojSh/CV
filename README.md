@@ -48,11 +48,11 @@ I believe that the difference between passable and great code is the ability to 
 
 ## Projects
 
-- _[PlayFest (Final Project)] (https://github.com/eripheebs/playfest)_ &nbsp;|&nbsp;
+- _[PlayFest (Final Project)] (https://github.com/eripheebs/playfest)_
 
-- _[Price Up] (https://github.com/JojSh/price_up)_ &nbsp;|&nbsp;
+- _[Price Up] (https://github.com/JojSh/price_up)_
 
-- _[https://github.com/JojSh/chitter-challenge])_ &nbsp;|&nbsp;
+- _[Chitter Challenge] (https://github.com/JojSh/chitter-challenge)_ 
 
 
 ## Experience
