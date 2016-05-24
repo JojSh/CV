@@ -3,9 +3,9 @@
 Junior Web Developer - Makers Academy Graduate
 
 _[Email] (mailto: joseph.sharratt@gmail.com)_ &nbsp;|&nbsp;
-_[LinkedIn] (url)_ &nbsp;|&nbsp;
-_[Twitter] (url)_ &nbsp;|&nbsp;
-_[CodeWars] (url)_ &nbsp;|&nbsp;
+_[LinkedIn] (https://uk.linkedin.com/in/jsharratt)_ &nbsp;|&nbsp;
+_[Twitter] (https://twitter.com/Joj_Sharratt)_ &nbsp;|&nbsp;
+_[CodeWars] (http://www.codewars.com/users/Joj)_ &nbsp;|&nbsp;
 
 Ex-copywriter turned aspiring web developer with a passion for cultivating clean code in line with Agile Methodologies, XP standards and industry best practices.
 
@@ -52,7 +52,7 @@ I believe that the difference between passable and great code is the ability to 
 
 - _[Price Up] (https://github.com/JojSh/price_up)_
 
-- _[Chitter Challenge] (https://github.com/JojSh/chitter-challenge)_ 
+- _[Chitter Challenge] (https://github.com/JojSh/chitter-challenge)_
 
 
 ## Experience
