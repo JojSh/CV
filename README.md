@@ -9,7 +9,7 @@ _[CodeWars] (http://www.codewars.com/users/Joj)_ &nbsp;|&nbsp;
 
 Ex-copywriter turned aspiring web developer with a passion for cultivating clean code in line with Agile Methodologies, XP standards and industry best practices.
 
-I'm looking to work in an environment that allows me to continue building on the solid foundations and diverse skills that I've laid down in an intensive 4 months at Makers Academy.
+I'm looking to work in a positive and collaborative environment that allows me to continue building on the solid foundations and diverse skills that I've laid down in an intensive 4 months at Makers Academy.
 
 
 ## Skills
@@ -60,19 +60,23 @@ Project Name | Description | Technologies | Testing
 
 ## Experience
 
-* Web editor (part-time) for Gamestyle, Feb 2015 - Nov 2015
+#### As a Freelance Copywriter (Mar 2014 - Sep 2014):
+
+* Web editor (part-time) for Gamestyle
 
   Subediting content. Sourcing, uploading and editing images. General website CMS.
 
-* Copywriter for Kindred Agency, Nov 2014 - Feb 2015
+* Copywriter for Kindred Agency
 
   - Generating original advertisement ideas for a range of campaigns and clients.
   - Producing eye-catching and engaging copy and punchy strap lines.
 
-* Copywriter for Maverick Advertising and Design, Mar 2014 - Sep 2014
+* Copywriter for Maverick Advertising and Design
 
   - Range of long and short form feature contributions predominately working with Gibraltar government.
   - Extensive project research
+
+#### Other:
 
 * Office Assistant (temp) Reed Recruitment, Nov 2013 - Jan 2014
 
