@@ -30,7 +30,7 @@ I believe that the difference between passable and great code is the ability to 
 
 * People
 
-  I believe that colleagues and pair-partners gain the most from each other when all parties are encouraged give feedback and to question anything they might not understand or agree with. I myself feel it is my obligation to let a colleague know if their code is not clear to me and likewise welcome such feedback as an opportunity to improve.
+  I believe that colleagues and pair-partners gain the most from each other when all parties are encouraged to give feedback and to question anything they might not understand or agree with. I myself feel it is my obligation to let a colleague know if their code is not clear to me and likewise welcome such feedback as an opportunity to improve.
 
 
 #### Outside the box thinking
@@ -48,11 +48,14 @@ I believe that the difference between passable and great code is the ability to 
 
 ## Projects
 
-- _[PlayFest (Final Project)] (https://github.com/eripheebs/playfest)_
 
-- _[Price Up] (https://github.com/JojSh/price_up)_
+Project Name | Description | Technologies | Testing
+--- | --- | --- | ---
+[PlayFest](https://github.com/JojSh/playfest) | A phone app with a decoupled architecture that turns photos of festival posters into Spotify playlists using optical character recognition software. Built in ten days for Makers Academy final project. | Javascript, Express, Node.js, Ionic  | Karma, Mocha, Protractor
+[Price Up](https://github.com/JojSh/price_up) | A single page web app to help sole traders to set and calculate prices. A deliberately contained pet project undertaken as an exercise in TDD and modular design. | Ruby, Sinatra | RSpec, Capybara
+[Slinks](https://github.com/JojSh/slinks) | A web app built in 4 days that extracts useful links from a designated Slack channel. | JavaScript, AngularJS, Slack API, NodeJS, ExpressJS, Sequelize, PostgreSQL | Karma, Protractor
+[Chitter Challenge](https://github.com/JojSh/chitter-challenge) | A twitter clone featuring posting and user signup/login functionality | Ruby, Sinatra, DataMapper, PostgreSQL, | Rspec, Capybara
 
-- _[Chitter Challenge] (https://github.com/JojSh/chitter-challenge)_
 
 
 ## Experience
