@@ -1,4 +1,4 @@
-## Joseph Sharratt
+## Joj Sharratt
 
 Junior Web Developer - Makers Academy Graduate
 
