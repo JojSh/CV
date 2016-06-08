@@ -16,7 +16,7 @@ I'm looking to work in a positive and collaborative environment that allows me t
 
 #### Communication
 
-I believe that the difference between passable and great code is the ability to efficiently communicate  purpose. Like good writing, good code should tell a story that a reader with even a basic grasp of the language can understand and feel able to actively engage with.
+I believe that the difference between passable and great code is its ability to efficiently communicate  purpose. Like good writing, good code should tell a story that a reader with even a basic grasp of the language can understand and feel able to actively engage with.
 
 * Writing
 
@@ -60,7 +60,7 @@ Project Name | Description | Technologies | Testing
 
 ## Experience
 
-#### As a Freelance Copywriter (Mar 2014 - Sep 2014):
+#### As a Freelance Copywriter (Mar 2014 - Sep 2015):
 
 * Web editor (part-time) for Gamestyle
 
