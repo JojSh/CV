@@ -39,13 +39,6 @@ I believe that the difference between passable and great code is in how effectiv
 
   - Working as a copywriter in advertising, I collaborated to create far ranging ideas for advertorial campaigns. This bolstered my ability for creative, outside-the-box thinking that I've been able to apply on several occasions throughout group projects at Makers academy.
 
-   <!-- e.g. (size recognition in Playfest, Baby Got Slack) -->
-
-  <!-- - Repeatedly called on, throughout my adult life and including at Makers, to proof, edit and otherwise improve my friends' and colleagues' written work. -->
-
-<!-- - Communication (giving/encouraging feedback, writing,
-  passionately believe that if the purpose of a piece of code isn't immediately clear, then it needs to be refactored or rewritten. -->
-
 ## Projects
 
 
