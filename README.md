@@ -7,37 +7,37 @@ _[LinkedIn] (https://uk.linkedin.com/in/jsharratt)_ &nbsp;|&nbsp;
 _[Twitter] (https://twitter.com/Joj_Sharratt)_ &nbsp;|&nbsp;
 _[CodeWars] (http://www.codewars.com/users/Joj)_ &nbsp;|&nbsp;
 
-Ex-copywriter turned aspiring web developer with a passion for cultivating clean code in line with Agile Methodologies, XP standards and industry best practices.
+Copywriter turned software developer with a passion for cultivating clean code. 21 months coding experience to date, with 15 on the job as a JavaScript Engineer. Fan and follower of Agile Methodologies, XP standards and industry best practices.
 
-I'm looking to work in a positive and collaborative environment that allows me to continue building on the solid foundations and diverse skills that I've laid down in an intensive 4 months at Makers Academy.
+I'm looking to work in a positive and collaborative environment that promotes continued learning and provides opportunities to hone my craft and to bolster my growing skillset with new technologies.
 
 
 ## Skills
 
 #### Communication
 
-I believe that the difference between passable and great code is its ability to efficiently communicate  purpose. Like good writing, good code should tell a story that a reader with even a basic grasp of the language can understand and feel able to actively engage with.
+I believe that the difference between passable and great code is in how effectively it can communicate purpose. As with good writing, good code should tell a story that a reader of any level can understand and feel able to actively engage with.
 
 * Writing
 
-  Through several years of copywriting experience I've honed a sophisticated command of written language and established the expertise to convey a complex idea or chart a literary narrative in clear and understandable english.
+  Over several years of copywriting experience I've honed a sophisticated command of written language and established the expertise to convey a complex idea, or to chart a literary narrative in clear and understandable terms.
 
-  I've applied this in the production of everything from vast features (such as an 11,000 word piece detailing the story of Gibraltar's civilians during WW2), right down to punchy marketing straplines, used to convey convoluted concepts in just a few words.
+  I've applied this in the production of everything from vast features, down to punchy marketing strap-lines, required to convey convoluted concepts in just a few words.
 
 * Coding
 
-  I find myself applying an editorial eye to my code on a daily basis, which has repeatedly proven an invaluable tool, allowing me to quickly identify repetition, improper syntax and opportunities to refactor. I strive to create coherent code that states clear intent and that a third party could comfortably contribute to without a need for additional explanation.
+  I find myself applying an editorial eye to my code on a daily basis, which has repeatedly proven an invaluable tool, allowing me to quickly identify repetition, improper syntax and opportunities to refactor. I strive to create coherent code that states clear intent and to which a third party could comfortably contribute without the need for additional explanation.
 
 * People
 
-  I believe that colleagues and pair-partners gain the most from each other when all parties are encouraged to give feedback and to question anything they might not understand or agree with. I myself feel it is my obligation to let a colleague know if their code is not clear to me and likewise welcome such feedback as an opportunity to improve.
+  I believe that colleagues and peers gain the most from one another when feedback is encouraged and fostered, and where individuals feel comfortable questioning things they do not understand or agree with. I feel it is an obligation to let a colleague know if their code is not clear and likewise to welcome such feedback as an opportunity to improve.
 
 
 #### Outside the box thinking
 
-  - Having the confidence to take a step back from a problem and a willingness to try a completely different approach is a crucial skill for a developer. Some of my proudest moments to date have been finding a way round, instead of through, a particularly labrynthine problem.
+  - Having the confidence to take a step back from a problem and the willingness to try a completely different approach is a crucial skill for a developer. Some of my proudest moments to date have been finding a way round, instead of through, a particularly labyrinthine problem.
 
-  - Working as a copywriter in advertising, I generated multitude of original and far-ranging ideas for advertorial campaigns. This bolstered my ability for creative, outside the box thinking that I've been able to apply on several occasions throughout group projects at Makers academy.
+  - Working as a copywriter in advertising, I collaborated to create far ranging ideas for advertorial campaigns. This bolstered my ability for creative, outside-the-box thinking that I've been able to apply on several occasions throughout group projects at Makers academy.
 
    <!-- e.g. (size recognition in Playfest, Baby Got Slack) -->
 
@@ -60,9 +60,20 @@ Project Name | Description | Technologies | Testing
 
 ## Experience
 
-#### As a Freelance Copywriter (Mar 2014 - Sep 2015):
+#### As a web developer (July 2016 - present)
 
-* Web editor (part-time) for Gamestyle
+* Client Engineer at Qubit
+
+  - Building experiences and A/B tests for a variety of high profile client websites, some of which seen by millions of daily visitors
+  - Project planning and maintenance with Strategists, Project Managers, Designers and fellow Engineers
+  - Debugging of live and legacy code
+  - Peer reviewing code
+  - Daily use of JavaScript, ES6, HTML, CSS, jQuery
+  - Some React, Redux and NodeJS
+
+#### As a Copywriter (Mar 2014 - Sep 2015):
+
+* Web Editor (part-time) for Gamestyle
 
   Subediting content. Sourcing, uploading and editing images. General website CMS.
 
