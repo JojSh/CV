@@ -1,22 +1,22 @@
 ## Joj Sharratt
 
-Junior Web Developer - Makers Academy Graduate
+Web Developer
 
 _[Email] (mailto: joseph.sharratt@gmail.com)_ &nbsp;|&nbsp;
 _[LinkedIn] (https://uk.linkedin.com/in/jsharratt)_ &nbsp;|&nbsp;
 _[Twitter] (https://twitter.com/Joj_Sharratt)_ &nbsp;|&nbsp;
 _[CodeWars] (http://www.codewars.com/users/Joj)_ &nbsp;|&nbsp;
 
-Copywriter turned software developer with a passion for cultivating clean code. 21 months coding experience to date, with 15 on the job as a JavaScript Engineer. Fan and follower of Agile Methodologies, XP standards and industry best practices.
+Copywriter turned software developer with a passion for cultivating clean code. 2 years coding experience to date, with 20 months on the job as a Front-end JavaScript Engineer.
 
-I'm looking to work in a positive and collaborative environment that promotes continued learning and provides opportunities to hone my craft and to bolster my growing skillset with new technologies.
+I'm looking to work in a positive, collaborative environment that promotes continued learning and provides opportunities to hone my craft and to build on my skillset with new technologies.
 
 
 ## Skills
 
 #### Communication
 
-I believe that the difference between passable and great code is in how effectively it can communicate purpose. As with good writing, good code should tell a story that a reader of any level can understand and feel able to actively engage with.
+I believe that the difference between passable and great code is in how effectively it can communicate intent. As with good writing, good code should tell a human-readable story that an audience of any level can understand and feel able to engage with.
 
 * Writing
 
@@ -30,12 +30,12 @@ I believe that the difference between passable and great code is in how effectiv
 
 * People
 
-  I believe that colleagues and peers gain the most from one another when feedback is encouraged and fostered, and where individuals feel comfortable questioning things they do not understand or agree with. I feel it is an obligation to let a colleague know if their code is not clear and likewise to welcome such feedback as an opportunity to improve.
+  I believe that colleagues and peers gain the most from one another when feedback is encouraged and fostered, and where individuals feel comfortable questioning things they do not understand or agree with. I feel it is an obligation to let a colleague know if their code has room for improvement and likewise to welcome such feedback as an opportunity to improve.
 
 
 #### Outside the box thinking
 
-  - Having the confidence to take a step back from a problem and the willingness to try a completely different approach is a crucial skill for a developer. Some of my proudest moments to date have been finding a way round, instead of through, a particularly labyrinthine problem.
+  - Having the confidence to take a step back from a problem and the willingness to try a completely different approach is a crucial skill for a developer. Some of my proudest moments to date have been finding a way round, instead of through, a particular problem.
 
   - Working as a copywriter in advertising, I collaborated to create far ranging ideas for advertorial campaigns. This bolstered my ability for creative, outside-the-box thinking that I've been able to apply on several occasions throughout group projects at Makers academy.
 
@@ -44,10 +44,10 @@ I believe that the difference between passable and great code is in how effectiv
 
 Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
+[Lifeline (WIP)](https://github.com/JojSh/lifeline) | A React web app providing users with an interactive visual UI to map the various events and eras of their lives to date.  | React, Javascipt, Node
 [PlayFest](https://github.com/JojSh/playfest) | A phone app with a decoupled architecture that turns photos of festival posters into Spotify playlists using optical character recognition software. Built in ten days for Makers Academy final project. | Javascript, Express, Node.js, Ionic  | Karma, Mocha, Protractor
 [Price Up](https://github.com/JojSh/price_up) | A single page web app to help sole traders to set and calculate prices. A deliberately contained pet project undertaken as an exercise in TDD and modular design. | Ruby, Sinatra | RSpec, Capybara
 [Slinks](https://github.com/JojSh/slinks) | A web app built in 4 days that extracts useful links from a designated Slack channel. | JavaScript, AngularJS, Slack API, NodeJS, ExpressJS, Sequelize, PostgreSQL | Karma, Protractor
-[Chitter Challenge](https://github.com/JojSh/chitter-challenge) | A twitter clone featuring posting and user signup/login functionality | Ruby, Sinatra, DataMapper, PostgreSQL, | Rspec, Capybara
 
 
 
@@ -57,12 +57,12 @@ Project Name | Description | Technologies | Testing
 
 * Client Engineer at Qubit
 
-  - Building experiences and A/B tests for a variety of high profile client websites, some of which seen by millions of daily visitors
+  - Building A/B tests, personalised experiences and customer segments for a variety of high profile client websites, code that is often executed millions of times per day
   - Project planning and maintenance with Strategists, Project Managers, Designers and fellow Engineers
   - Debugging of live and legacy code
   - Peer reviewing code
-  - Daily use of JavaScript, ES6, HTML, CSS, jQuery
-  - Some React, Redux and NodeJS
+  - Daily use of JavaScript, ES6, HTML5, CSS3, jQuery,
+  - Some React and NodeJS
 
 #### As a Copywriter (Mar 2014 - Sep 2015):
 
