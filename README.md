@@ -7,26 +7,26 @@ _[LinkedIn] (https://uk.linkedin.com/in/jsharratt)_ &nbsp;|&nbsp;
 _[Twitter] (https://twitter.com/Joj_Sharratt)_ &nbsp;|&nbsp;
 _[CodeWars] (http://www.codewars.com/users/Joj)_ &nbsp;|&nbsp;
 
-Copywriter turned software developer with a passion for cultivating clean code. 2 years coding experience to date, with 20 months on the job as a Front-end JavaScript Engineer.
+Copywriter turned software developer with a passion for clean code. 2 years full-time coding experience to date, with 20 months on the job as a Front-end JavaScript Engineer.
 
-I'm looking to work in a positive, collaborative environment that promotes continued learning and provides opportunities to hone my craft and to build on my skillset with new technologies.
+I'm looking to work in a positive, collaborative environment that promotes continued learning and provides opportunities to hone my craft and to build on my skill set with new technologies and practices.
 
 
 ## Skills
 
 #### Communication
 
-I believe that the difference between passable and great code is in how effectively it can communicate intent. As with good writing, good code should tell a human-readable story that an audience of any level can understand and feel able to engage with.
+I believe that the difference between great and passable code is in how well it communicates intent. As with good writing, good code should tell a human-readable story that an audience of any level can understand and feel able to engage with.
 
 * Writing
 
-  Over several years of copywriting experience I've honed a sophisticated command of written language and established the expertise to convey a complex idea, or to chart a literary narrative in clear and understandable terms.
+  After several years as a copywriter, I've honed a sophisticated command of written language and established the expertise to convey a complex idea, or to chart a literary narrative in clear and understandable terms.
 
-  I've applied this in the production of everything from vast features, down to punchy marketing strap-lines, required to convey convoluted concepts in just a few words.
+  I've applied this in the production of everything from broad features, down to punchy marketing strap-lines required to convey complicated concepts in just a few words.
 
 * Coding
 
-  I find myself applying an editorial eye to my code on a daily basis, which has repeatedly proven an invaluable tool, allowing me to quickly identify repetition, improper syntax and opportunities to refactor. I strive to create coherent code that states clear intent and to which a third party could comfortably contribute without the need for additional explanation.
+  I find an editorial eye was proven to be an invaluable tool when peer-reviewing code, allowing me to quickly identify repetition, improper syntax and opportunities to refactor. I strive to create coherent code that states clear intent and to which a third party can comfortably contribute without the need for additional explanation.
 
 * People
 
@@ -37,7 +37,7 @@ I believe that the difference between passable and great code is in how effectiv
 
   - Having the confidence to take a step back from a problem and the willingness to try a completely different approach is a crucial skill for a developer. Some of my proudest moments to date have been finding a way round, instead of through, a particular problem.
 
-  - Working as a copywriter in advertising, I collaborated to create far ranging ideas for advertorial campaigns. This bolstered my ability for creative, outside-the-box thinking that I've been able to apply on several occasions throughout group projects at Makers academy.
+  - Working as a copywriter in advertising, I collaborated to create far-ranging ideas for advertorial campaigns. This bolstered my ability for creative, outside-the-box thinking that I've been able to apply on several occasions throughout group projects at Makers academy.
 
 ## Projects
 
@@ -47,8 +47,6 @@ Project Name | Description | Technologies | Testing
 [Lifeline (WIP)](https://github.com/JojSh/lifeline) | A React web app providing users with an interactive visual UI to map the various events and eras of their lives to date.  | React, Javascipt, Node
 [PlayFest](https://github.com/JojSh/playfest) | A phone app with a decoupled architecture that turns photos of festival posters into Spotify playlists using optical character recognition software. Built in ten days for Makers Academy final project. | Javascript, Express, Node.js, Ionic  | Karma, Mocha, Protractor
 [Price Up](https://github.com/JojSh/price_up) | A single page web app to help sole traders to set and calculate prices. A deliberately contained pet project undertaken as an exercise in TDD and modular design. | Ruby, Sinatra | RSpec, Capybara
-[Slinks](https://github.com/JojSh/slinks) | A web app built in 4 days that extracts useful links from a designated Slack channel. | JavaScript, AngularJS, Slack API, NodeJS, ExpressJS, Sequelize, PostgreSQL | Karma, Protractor
-
 
 
 ## Experience
